@@ -1,1 +1,5 @@
-Remarks will be added later
+required
+
+$ pip install googletrans
+
+
