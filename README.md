@@ -1,4 +1,4 @@
-required
+Requirements
 
 $ pip install googletrans
 
